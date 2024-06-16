@@ -4,7 +4,7 @@ Hi 👋 My name is Dhiraj Khapangi
 Web & Mobile App Developer
 --------------------------
 
-I have been working as ReactJS and React Native app developer for 3 years. I have worked in multiple companies and in various projects like e-commerce, human resource management tools, and admin dashboard for creating content and controlling various functionality for users and customers. I have profound knowledge of React design patterns, modern app design patterns, app optimization techniques, react-redux, redux toolkit, dynamic table creation, and many more.
+I have been working as React and React Native app developer for more than 4 years. I have worked in multiple companies and in various projects like e-commerce, human resource management tools, and admin dashboard for creating content and controlling various functionality for users and customers. I have profound knowledge of React design patterns, modern app design patterns, app optimization techniques, react-redux, redux toolkit, dynamic table creation, and many more.
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [dkhapangi13@outlook.com](mailto:dkhapangi13@outlook.com)
