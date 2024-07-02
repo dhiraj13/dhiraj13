@@ -8,7 +8,6 @@ I have been working as React and React Native app developer for more than 4 year
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [dkhapangi13@outlook.com](mailto:dkhapangi13@outlook.com) or [dhirajkhapangi.official@gmail.com](mailto:dhirajkhapangi.official@gmail.com)
-* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/majnu03" target="_blank" rel="noreferrer"><img
